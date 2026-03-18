@@ -1,5 +1,5 @@
 # Kanade Cursors~
-The unofficial port of **Yoisaki Kanade from Nightcord at 25:00's cursors**, mainly known from a rhythm game **"HATSUNE MIKU : COLORFUL STAGE!"**
+The unofficial linux port of **Yoisaki Kanade from Nightcord at 25:00's cursors**, mainly known from a rhythm game **"HATSUNE MIKU : COLORFUL STAGE!"**
 
 ## Credits
 **BLZ (Twitter : BLZ_pixel) : Making this and the other unit's cursors <3** \
