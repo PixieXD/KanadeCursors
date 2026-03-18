@@ -1,0 +1,17 @@
+resize_algorithm = nearest
+hotspot_x = 0.47
+hotspot_y = 0.47
+
+define_size = 32, Vertical_000.png, 83
+define_size = 32, Vertical_001.png, 83
+define_size = 32, Vertical_002.png, 83
+define_size = 32, Vertical_003.png, 83
+define_size = 32, Vertical_004.png, 83
+define_size = 32, Vertical_005.png, 83
+define_size = 32, Vertical_006.png, 83
+define_size = 32, Vertical_007.png, 83
+define_size = 32, Vertical_008.png, 83
+define_size = 32, Vertical_009.png, 83
+define_size = 32, Vertical_010.png, 83
+define_size = 32, Vertical_011.png, 83
+

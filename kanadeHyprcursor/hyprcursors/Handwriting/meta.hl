@@ -1,0 +1,17 @@
+resize_algorithm = nearest
+hotspot_x = 0.00
+hotspot_y = 0.00
+
+define_size = 32, Handwriting_000.png, 83
+define_size = 32, Handwriting_001.png, 83
+define_size = 32, Handwriting_002.png, 83
+define_size = 32, Handwriting_003.png, 83
+define_size = 32, Handwriting_004.png, 83
+define_size = 32, Handwriting_005.png, 83
+define_size = 32, Handwriting_006.png, 83
+define_size = 32, Handwriting_007.png, 83
+define_size = 32, Handwriting_008.png, 83
+define_size = 32, Handwriting_009.png, 83
+define_size = 32, Handwriting_010.png, 83
+define_size = 32, Handwriting_011.png, 83
+

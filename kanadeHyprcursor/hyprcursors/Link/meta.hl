@@ -1,0 +1,17 @@
+resize_algorithm = nearest
+hotspot_x = 0.12
+hotspot_y = 0.00
+
+define_size = 32, Link_000.png, 83
+define_size = 32, Link_001.png, 83
+define_size = 32, Link_002.png, 83
+define_size = 32, Link_003.png, 83
+define_size = 32, Link_004.png, 83
+define_size = 32, Link_005.png, 83
+define_size = 32, Link_006.png, 83
+define_size = 32, Link_007.png, 83
+define_size = 32, Link_008.png, 83
+define_size = 32, Link_009.png, 83
+define_size = 32, Link_010.png, 83
+define_size = 32, Link_011.png, 83
+
