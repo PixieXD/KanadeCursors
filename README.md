@@ -17,7 +17,7 @@ And also...
 3. Copy / Move the contents of the folder to either `~/.local/share/icons` or `~/.icons`. 
 4. Set the icon theme by either setting up the Env variables or utilising `hyprctl` :
 
-```json
+```
 # Env Variables (using hyprcursor)
 env = HYPRCURSOR_THEME,KanadeCursors
 env = HYPRCURSOR_SIZE,32
@@ -27,13 +27,13 @@ hyprctl setcursor KanadeCursors 32
 ```
 Note that Hyprland must be restarted by running `hyprctl dispatch exit` for the icons to take effect.
 
-### Other DEs
+### Other DEs :
 1. Grab the latest cursor release file [from here](https://github.com/PixieXD/KanadeCursors/releases).
 2. Extract the tar ball.
 3. Copy / Move the contents of the folder to either `~/.local/share/icons` or `~/.icons`. 
 4. Set the icon theme by setting up the Env variables :
 
-```json
+```
 # Env Variables
 env = XCURSOR_THEME,KanadeCursors
 env = XCURSOR_SIZE,32
