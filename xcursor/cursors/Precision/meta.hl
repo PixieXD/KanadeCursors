@@ -1,0 +1,17 @@
+resize_algorithm = nearest
+hotspot_x = 0.16
+hotspot_y = 0.19
+
+define_size = 32, Precision_000.png, 83
+define_size = 32, Precision_001.png, 83
+define_size = 32, Precision_002.png, 83
+define_size = 32, Precision_003.png, 83
+define_size = 32, Precision_004.png, 83
+define_size = 32, Precision_005.png, 83
+define_size = 32, Precision_006.png, 83
+define_size = 32, Precision_007.png, 83
+define_size = 32, Precision_008.png, 83
+define_size = 32, Precision_009.png, 83
+define_size = 32, Precision_010.png, 83
+define_size = 32, Precision_011.png, 83
+

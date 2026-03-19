@@ -1,0 +1,17 @@
+resize_algorithm = nearest
+hotspot_x = 0.00
+hotspot_y = 0.00
+
+define_size = 32, Pin_000.png, 83
+define_size = 32, Pin_001.png, 83
+define_size = 32, Pin_002.png, 83
+define_size = 32, Pin_003.png, 83
+define_size = 32, Pin_004.png, 83
+define_size = 32, Pin_005.png, 83
+define_size = 32, Pin_006.png, 83
+define_size = 32, Pin_007.png, 83
+define_size = 32, Pin_008.png, 83
+define_size = 32, Pin_009.png, 83
+define_size = 32, Pin_010.png, 83
+define_size = 32, Pin_011.png, 83
+

@@ -1,0 +1,17 @@
+resize_algorithm = nearest
+hotspot_x = 0.47
+hotspot_y = 0.47
+
+define_size = 32, Move_000.png, 83
+define_size = 32, Move_001.png, 83
+define_size = 32, Move_002.png, 83
+define_size = 32, Move_003.png, 83
+define_size = 32, Move_004.png, 83
+define_size = 32, Move_005.png, 83
+define_size = 32, Move_006.png, 83
+define_size = 32, Move_007.png, 83
+define_size = 32, Move_008.png, 83
+define_size = 32, Move_009.png, 83
+define_size = 32, Move_010.png, 83
+define_size = 32, Move_011.png, 83
+

@@ -1,0 +1,17 @@
+resize_algorithm = nearest
+hotspot_x = 0.00
+hotspot_y = 0.00
+
+define_size = 32, Normal_000.png, 83
+define_size = 32, Normal_001.png, 83
+define_size = 32, Normal_002.png, 83
+define_size = 32, Normal_003.png, 83
+define_size = 32, Normal_004.png, 83
+define_size = 32, Normal_005.png, 83
+define_size = 32, Normal_006.png, 83
+define_size = 32, Normal_007.png, 83
+define_size = 32, Normal_008.png, 83
+define_size = 32, Normal_009.png, 83
+define_size = 32, Normal_010.png, 83
+define_size = 32, Normal_011.png, 83
+

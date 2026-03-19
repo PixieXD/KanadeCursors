@@ -1,0 +1,23 @@
+resize_algorithm = nearest
+hotspot_x = 0.47
+hotspot_y = 0.47
+
+define_size = 32, size_fdiag_000.png, 83
+define_size = 32, size_fdiag_001.png, 83
+define_size = 32, size_fdiag_002.png, 83
+define_size = 32, size_fdiag_003.png, 83
+define_size = 32, size_fdiag_004.png, 83
+define_size = 32, size_fdiag_005.png, 83
+define_size = 32, size_fdiag_006.png, 83
+define_size = 32, size_fdiag_007.png, 83
+define_size = 32, size_fdiag_008.png, 83
+define_size = 32, size_fdiag_009.png, 83
+define_size = 32, size_fdiag_010.png, 83
+define_size = 32, size_fdiag_011.png, 83
+
+define_override = se-resize
+define_override = c7088f0f3e6c8088236ef8e1e3e70000
+define_override = bd_double_arrow
+define_override = nw-resize
+define_override = size-fdiag
+define_override = nwse-resize

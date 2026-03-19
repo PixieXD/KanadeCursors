@@ -1,0 +1,17 @@
+resize_algorithm = nearest
+hotspot_x = 0.00
+hotspot_y = 0.00
+
+define_size = 32, Help_000.png, 83
+define_size = 32, Help_001.png, 83
+define_size = 32, Help_002.png, 83
+define_size = 32, Help_003.png, 83
+define_size = 32, Help_004.png, 83
+define_size = 32, Help_005.png, 83
+define_size = 32, Help_006.png, 83
+define_size = 32, Help_007.png, 83
+define_size = 32, Help_008.png, 83
+define_size = 32, Help_009.png, 83
+define_size = 32, Help_010.png, 83
+define_size = 32, Help_011.png, 83
+

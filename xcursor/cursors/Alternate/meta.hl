@@ -1,0 +1,17 @@
+resize_algorithm = nearest
+hotspot_x = 0.12
+hotspot_y = 0.00
+
+define_size = 32, Alternate_000.png, 83
+define_size = 32, Alternate_001.png, 83
+define_size = 32, Alternate_002.png, 83
+define_size = 32, Alternate_003.png, 83
+define_size = 32, Alternate_004.png, 83
+define_size = 32, Alternate_005.png, 83
+define_size = 32, Alternate_006.png, 83
+define_size = 32, Alternate_007.png, 83
+define_size = 32, Alternate_008.png, 83
+define_size = 32, Alternate_009.png, 83
+define_size = 32, Alternate_010.png, 83
+define_size = 32, Alternate_011.png, 83
+
