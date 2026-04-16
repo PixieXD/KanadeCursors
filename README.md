@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repo is no longer recommended in favor of a new repo for all of the Nightcord cursors, which is **[linked here](https://github.com/PixieXD/NightcordCursors)**
+
 # Kanade Cursors~
 The unofficial linux port of **Yoisaki Kanade from Nightcord at 25:00's cursors**, mainly known from a rhythm game **"HATSUNE MIKU : COLORFUL STAGE!"**.
 
